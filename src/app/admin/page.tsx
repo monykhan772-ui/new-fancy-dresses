@@ -5,7 +5,7 @@ import { t } from '@/utils/translations';
 import { useState } from 'react';
 import { Lock, LogOut, Package, TrendingUp, Tag } from 'lucide-react';
 
-const ADMIN_PASSWORD = 'admin123';
+const ADMIN_PASSWORD = 'AB!?NFD$#$#2343TB&&NP';
 
 export default function AdminPage() {
   const { language } = useStore();
